@@ -10,6 +10,13 @@ Port scanning helps identify open services running on a system.
 - Detect open ports
 - Basic networking analysis
 
+## How to Run It
+Run the script directly through your terminal or command prompt:
+
+```bash
+python basic-port-scanner.py
+```
+
 ## Concepts Used
 - Socket programming
 - Networking
